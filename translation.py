@@ -1,5 +1,5 @@
 class Translation(object):
-    START_TEXT = """<b>𝙎𝘾𝙍𝘼𝙋 𝙈𝘼𝙉 di buat untuk Membantu anda Untuk Mengambil APP ID dan API Hash dengan Mudah dan AMAN!
+    START_TEXT = """<b>ᴄɪʟɪᴋ ꜱᴄʀᴀᴘ di buat untuk Membantu anda Untuk Mengambil APP ID dan API Hash!
 ━━━━━━━━━━━━━━━━━━━━━━━━
 Silahkan Masukkan Nomor Telepon Telegram Anda Dengan Format Kode Negara.
 Contoh : +628xxxxxxx</b>
@@ -8,7 +8,6 @@ Contoh : +628xxxxxxx</b>
 Silahkan kirimkan kode yang Anda terima dari Telegram!
 
 Kode ini hanya digunakan untuk tujuan mendapatkan ID APP dari my.telegram.org
-jika Anda tidak mempercayai dev bot ini, Ngambil Manual aja
 """
     BEFORE_SUCC_LOGIN = "Kode Diterima. Scarpping Web Page..."
     ERRED_PAGE = """Hadeh Error. Coba dengan Cara Manual
